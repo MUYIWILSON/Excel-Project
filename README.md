@@ -1,2 +1,2 @@
 # Excel-Project
-Worksheet, Pivotbale and Interactive Dashboard
+Worksheet, Pivotable, and Interactive Dashboard
